@@ -87,10 +87,13 @@ Link do projeto: https://tinyurl.com/perceptron-pcb
 
 ## Mais Informações
 
-Detalhes adicionais sobre o projeto, incluindo técnicas e materiais complementares, estão disponíveis no site oficial:
+Detalhes adicionais sobre o projeto, incluindo a documentação das **técnicas utilizadas** e materiais complementares, estão disponíveis no site oficial:
 
 [https://sites.google.com/usp.br/perceptron](https://sites.google.com/usp.br/perceptron)
 
-## Instituição
+## Autores
 
-Projeto desenvolvido no Instituto de Ciências Matemáticas e de Computação (ICMC), Universidade de São Paulo, campus São Carlos, e incorporado ao acervo do Museu da Computação da USP São Carlos.
+- **Eduardo Somensi Barbosa** — [GitHub](https://github.com/edusbarbosa)
+- **Hermes dos Santos Fortes** — [GitHub](https://github.com/JuniorTWI)
+- **José Gabriel Oliveira Gomes** — [GitHub](https://github.com/josegabriel-spec)
+- **Ruan Vinicius dos Santos de Jesúz** — [GitHub](https://github.com/ruan-dejesuz)
