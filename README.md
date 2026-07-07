@@ -4,7 +4,7 @@ Implementação física de um Perceptron utilizando circuitos eletrônicos anal�
 
 ## Descrição do Projeto
 
-Este repositório documenta o desenvolvimento de um Perceptron construído inteiramente em hardware analógico. O projeto foi desenvolvido como trabalho em grupo para as disciplinas de **Eletrônica para Computação** e **Evolução Histórica da Computação e Aplicações**, ministradas no Instituto de Ciências Matemáticas e de Computação (ICMC) da USP.
+Este repositório documenta o desenvolvimento de um Perceptron (modelo de neurônio artificial) construído em hardware analógico. O projeto foi desenvolvido como trabalho em grupo para as disciplinas de **Eletrônica para Computação** e **Evolução Histórica da Computação e Aplicações**, ministradas no Instituto de Ciências Matemáticas e de Computação (ICMC) da USP.
 
 O dispositivo final está presente no acervo do **Museu da Computação da USP São Carlos**, servindo como peça de exposição e material didático.
 
@@ -73,7 +73,13 @@ Imagens do protótipo físico.
 
 Antes da fabricação física, o circuito foi validado por meio de simulação eletrônica e projetado em ferramenta de design de PCB.
 
-### Tinkercad (Simulação de Circuito)
+### Falstad (Simulação do Circuito)
+
+![Simulação do circuito no Falstad](images/falstad.jpeg)
+
+Link da simulação: https://www.falstad.com/s.php?s=rNsnQ2
+
+### Tinkercad (Simulação do Circuito)
 
 ![Simulação do circuito no Tinkercad](images/tinkercad.png)
 
