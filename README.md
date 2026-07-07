@@ -89,7 +89,7 @@ Link da simulação: https://tinyurl.com/perceptron-usp
 
 ![Layout da PCB no EasyEDA](images/easyeda.png)
 
-Link do projeto: https://tinyurl.com/perceptron-pcb
+Link do projeto: https://oshwlab.com/edu.somensi/project_gdsyxhaq
 
 ## Mais Informações
 
